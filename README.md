@@ -11,3 +11,10 @@ Hér er linkur á video hvernig spilið virkar https://drive.google.com/file/d/1
 
 Hér fyrir neðan koma nokkrar myndir að spilinu.
 
+![alt text]
+![alt text]
+![alt text]
+![alt text]
+![alt text]
+![alt text]
+![alt text]
