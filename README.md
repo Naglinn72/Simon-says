@@ -24,3 +24,7 @@ Hér fyrir neðan koma nokkrar myndir að spilinu.
 ![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160459.png)
 
 ![alt text](20220926_160456.png)
+
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160548.png)
+
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160556.png)
