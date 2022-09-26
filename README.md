@@ -13,14 +13,14 @@ Hér fyrir neðan koma nokkrar myndir að spilinu.
 
 ![alt text](https://github.com/Naglinn72/Simon-says/blob/main/2505%5B1%5D.png)
 
-![alt text]
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160525.png)
 
-![alt text]
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160509.png)
 
-![alt text]
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160505.png)
 
-![alt text]
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160501.png)
 
-![alt text]
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/20220926_160459.png)
 
-![alt text]
+![alt text](20220926_160456.png)
