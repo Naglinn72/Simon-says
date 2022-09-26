@@ -11,10 +11,16 @@ Hér er linkur á video hvernig spilið virkar https://drive.google.com/file/d/1
 
 Hér fyrir neðan koma nokkrar myndir að spilinu.
 
+![alt text](https://github.com/Naglinn72/Simon-says/blob/main/2505%5B1%5D.png)
+
 ![alt text]
+
 ![alt text]
+
 ![alt text]
+
 ![alt text]
+
 ![alt text]
-![alt text]
+
 ![alt text]
